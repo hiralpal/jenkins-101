@@ -21,7 +21,7 @@ pipeline {
                 bat'''
                 cd myapp
                 python hello.py
-                python hello.py --name=Brad
+                python hello.py --name=Hiral
                 '''
             }
         }
